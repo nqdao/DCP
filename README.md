@@ -1,5 +1,5 @@
 # dailycodeproblem
-![Travis CI](https://travis-ci.com/nqdao/DCP.svg?branch=master)
+[![Build Status](https://travis-ci.com/nqdao/DCP.svg?branch=master)](https://travis-ci.com/nqdao/DCP)
 
 My collection of daily code problems and solutions.
 
